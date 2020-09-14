@@ -46,7 +46,7 @@ Confusion Matrix and accuracy/loss plots:
 # Feature Map Images from Hidden Layers
 This will help show you what's happening with the images after each layer of the model network and how the patterns are developed.
 
-![map]()
+![map](https://github.com/alexanderbeat/pneumonia-xray-cnn-classification/blob/master/images/map.png)
 
 
 
