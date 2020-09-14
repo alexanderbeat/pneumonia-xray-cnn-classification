@@ -29,18 +29,18 @@ train acc: 0.9546123147010803 test acc: 0.9006410241127014
 
 Classification Report:
 
-![classreport]()
+![classreport](https://github.com/alexanderbeat/pneumonia-xray-cnn-classification/blob/master/images/classreportadammodel.png)
 
 
 
 Confusion Matrix and accuracy/loss plots:
 
 
-![png](output_66_1.png)
+![png](https://github.com/alexanderbeat/pneumonia-xray-cnn-classification/blob/master/images/output_66_1.png)
 
 
 
-![png](output_66_2.png)
+![png](https://github.com/alexanderbeat/pneumonia-xray-cnn-classification/blob/master/images/output_66_2.png)
 
 
 # Feature Map Images from Hidden Layers
